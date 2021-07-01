@@ -49,3 +49,4 @@ for(let i = 0; i < catalogo.length; i++){
     
     console.table(filmes,["titulo", "duracao", "atores"])
 }
+
